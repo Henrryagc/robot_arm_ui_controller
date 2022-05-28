@@ -1,5 +1,5 @@
 import tkinter as tk
-import ui_commands as uic
+import src.ui.ui_commands as uic
 
 
 class MainFrame(tk.Frame):

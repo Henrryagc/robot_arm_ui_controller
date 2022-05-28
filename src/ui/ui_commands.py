@@ -1,4 +1,4 @@
-import robot_arm as ra
+import src.robot_arm.robot_arm as ra
 
 def init_arm():    
     robot.connection()    
